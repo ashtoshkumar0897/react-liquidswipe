@@ -12,7 +12,7 @@
   <a href="https://www.gatsbyjs.com/"><img alt="Made With Gatsby" src="https://img.shields.io/badge/made%20with-gatsby-blueviolet?style=flat-square" /></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
   <br/>
-  <a href="https://app.netlify.com/sites/liquidswipe/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70d38bf1-15ea-4484-96b3-afb432fb7d56/deploy-status?style=flat-square" /></a>
+  <a href="https://agent-6a02efc8fc1a948c9c0119a--react-liquidswipe.netlify.app/"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70d38bf1-15ea-4484-96b3-afb432fb7d56/deploy-status?style=flat-square" /></a>
   <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
   <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://github.com/ashutosh1919/react-liquidswipe/commits/main"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
