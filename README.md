@@ -100,23 +100,5 @@ If you think you can solve any of the above problems then we will highly appreci
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ashutosh1919/react-liquidswipe/blob/main/LICENSE) file for details.
 You can use this project for personal as well as commercial purposes. But if you think you have modified the project and built something really good, we will humbly request you to raise the pull request and share with the opensource community.
 
-# Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/react-liquidswipe/pulls) or [issue](https://github.com/ashutosh1919/react-liquidswipe/issues). If you want to know about how to create pull request, then please refer to [this blog](https://opensource.com/article/19/7/create-pull-request-github).
-
-I have mentioned issues with the current implementation in the Caution section. We are highly appreciating you to raise the pull request to resolve some/all the issues.
-
-# Donate 💉
-
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this project for personal and commercial purpose for free.
-
-However, if you are using this project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
-
-- Giving proper credit when you use this on your project, linking back to it :D
-- Starring and sharing the project 🚀
-- You can make one-time donations by clicking the buttons below. I'll probably buy an amazing workstation which will help me build more aggressively.
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50px" ></a>
-
-qM)
 - [A codepen by Yugam](https://codepen.io/pizza3/pen/LYGQOBo)
