@@ -118,29 +118,5 @@ However, if you are using this project and happy with it or just want to encoura
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50px" ></a>
 
-# Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ashutosh1919"><img src="https://avatars3.githubusercontent.com/u/20843596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/Andre2553"><img src="https://avatars0.githubusercontent.com/u/40185436?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Rodrigues Lima</b></sub></a><br /><a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=Andre2553" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-# References 👏🏻
-
-- [Cuberto Design Agency has created an original design concept](https://dribbble.com/shots/10680562-UI-Design-Course-3-Liquid-Swipe-After-Effects-Animation-2020)
-- [React Native implementation by William Candillon](https://www.youtube.com/watch?v=gLopy2MCAqM)
+qM)
 - [A codepen by Yugam](https://codepen.io/pizza3/pen/LYGQOBo)
