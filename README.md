@@ -31,7 +31,7 @@
 </p>
 
 :star: Star us on GitHub — it helps!  
-To view a live example, [click here](https://agent-6a02efc8fc1a948c9c0119a--react-liquidswipe.netlify.app/#)
+To view a live example, [click here](https://react-liquidswipe.netlify.app/)
 
 **React LiquidSwipe** is created using physics based animation libraries `react-spring` and `react-use-gesture`.
 
@@ -79,12 +79,7 @@ If you think that this documentation is not enough for you to understand, I have
 
 - [Shapefest](https://www.shapefest.com/)
 
-# Important Links 📑
-
-- [Github Repository - It contains the ReactJs implementation of LiquidSwipe](https://github.com/ashutosh1919/react-liquidswipe)
-- [YouTube Video - How it is built and how you can use it in your website](https://youtu.be/uGoWVz-q2M8)
-- [Behance Design](https://www.behance.net/gallery/110526825/Apple-Clay-Devices-Showcase-with-LiquidSwipe-Animation)
-- [Dribbble Shot](https://dribbble.com/shots/14856679-Apple-Clay-Devices-Showcase-with-LiquidSwipe-Animation)
+#
 
 # Caution ☠️
 
